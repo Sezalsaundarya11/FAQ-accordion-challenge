@@ -9,7 +9,7 @@ The challenge involved building a FAQ accordion that allows users to hide/show t
 ## Links
 
 - [Solution URL](https://github.com/Sezalsaundarya11/FAQ-accordion-challenge.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://iridescent-kleicha-469869.netlify.app)
 
 ## My Process
 
