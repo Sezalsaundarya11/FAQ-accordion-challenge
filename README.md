@@ -8,7 +8,7 @@ The challenge involved building a FAQ accordion that allows users to hide/show t
 
 ## Links
 
-- [Solution URL]([https://your-solution-url.com](https://github.com/Sezalsaundarya11/FAQ-accordion-challenge.git))
+- [Solution URL](https://github.com/Sezalsaundarya11/FAQ-accordion-challenge.git)
 - [Live Site URL](https://your-live-site-url.com)
 
 ## My Process
