@@ -43,9 +43,6 @@ In future projects, I aim to explore more advanced JavaScript features, improve 
 
 I would like to express my gratitude to the Frontend Mentor community for providing valuable feedback and support during the completion of this challenge.
 
----
 
-Feel free to customize this template based on your solution and personal experiences. Share your solution with the community and enjoy the process of continuous learning! 🚀
-```
 
-Replace the placeholder URLs and other details with your actual information.
+
